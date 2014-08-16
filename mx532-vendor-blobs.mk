@@ -124,15 +124,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libnvtvmr.so:system/lib/libnvtvmr.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvwinsys.so:system/lib/libnvwinsys.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvwsi.so:system/lib/libnvwsi.so \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bcm4329/fw_bcmdhd.bin:system/vendor/firmware/bcm4329/fw_bcmdhd.bin \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bcm4329/fw_bcmdhd_apsta.bin:system/vendor/firmware/bcm4329/fw_bcmdhd_apsta.bin \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bcm4330/fw_bcmdhd.bin:system/vendor/firmware/bcm4330/fw_bcmdhd.bin \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bcm4330/fw_bcmdhd_apsta.bin:system/vendor/firmware/bcm4330/fw_bcmdhd_apsta.bin \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bcm4330/fw_bcmdhd_p2p.bin:system/vendor/firmware/bcm4330/fw_bcmdhd_p2p.bin \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/fw_bcm4329.bin:system/vendor/firmware/fw_bcm4329.bin \
-    $(LOCAL_PATH)/proprietary/system/vendor/firmware/fw_bcm4329_apsta.bin:system/vendor/firmware/fw_bcm4329_apsta.bin \
     $(LOCAL_PATH)/proprietary/system/lib/modules/cfg80211.ko:system/lib/modules/cfg80211.ko \
-    $(LOCAL_PATH)/proprietary/system/lib/modules/bcmdhd.ko:system/lib/modules/bcmdhd.ko \
-    $(LOCAL_PATH)/proprietary/system/lib/modules/bcm4329.ko:system/lib/modules/bcm4329.ko \
     $(LOCAL_PATH)/proprietary/system/lib/modules/tcrypt.ko:system/lib/modules/tcrypt.ko \
     $(LOCAL_PATH)/proprietary/system/lib/modules/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko
