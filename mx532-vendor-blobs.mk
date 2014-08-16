@@ -82,6 +82,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libnvdispmgr_d.so:system/lib/libnvdispmgr_d.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvglsi.so:system/lib/libnvglsi.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvhdmi3dplay_jni.so:system/lib/libnvhdmi3dplay_jni.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm.so:system/lib/libnvmm.so \
@@ -90,6 +91,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm_contentpipe.so:system/lib/libnvmm_contentpipe.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm_image.so:system/lib/libnvmm_image.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm_manager.so:system/lib/libnvmm_manager.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libnvmm_misc.so:system/lib/libnvmm_misc.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm_parser.so:system/lib/libnvmm_parser.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm_service.so:system/lib/libnvmm_service.so \
     $(LOCAL_PATH)/proprietary/system/lib/libnvmm_utils.so:system/lib/libnvmm_utils.so \
