@@ -51,7 +51,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/lights.chagall.so:system/lib/hw/lights.chagall.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/nfc.tegra.so:system/lib/hw/nfc.tegra.so \
-    $(LOCAL_PATH)/proprietary/system/lib/hw/sensors.chagall.so:system/lib/hw/sensors.chagall.so \
     $(LOCAL_PATH)/proprietary/system/lib/bluez-plugin/audio.so:system/lib/bluez-plugin/audio.so \
     $(LOCAL_PATH)/proprietary/system/lib/bluez-plugin/bluetooth-health.so:system/lib/bluez-plugin/bluetooth-health.so \
     $(LOCAL_PATH)/proprietary/system/lib/bluez-plugin/input.so:system/lib/bluez-plugin/input.so \
